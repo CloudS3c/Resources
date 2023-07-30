@@ -61,7 +61,7 @@ param=13=.runescape.com
 param=7=0
 param=11=https://auth.jagex.com/
 param=12=516
-param=17=https://raw.githubusercontent.com/AlterRSPS/Resources/main/jav_configs/world_list.ws
+param=17=http://127.0.0.1:4842/
 param=21=0
 param=16=true
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
